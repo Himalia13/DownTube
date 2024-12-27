@@ -1,3 +1,11 @@
-.history
-._pycache_
-.downld
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# History files
+.history/
+
+# Downloads directory
+downld/
