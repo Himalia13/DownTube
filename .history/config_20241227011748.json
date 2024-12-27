@@ -1,0 +1,20 @@
+{
+    "url": "",
+    "type": "music",
+    "v_quality": "480p",
+    "no_overwrites": true,
+    "quiet": false,
+    "max_filesize": 28651000000.0,
+    "simulate": false,
+    "set_proxy": false,
+    "proxy": "http://127.0.0.1:8080",
+    "geo_bypass": true,
+    "retries": 8,
+    "limit_rate": "66.29M",
+    "custom_folder": "",
+    "default_folder": "",
+    "auto_cookies": false,
+    "cookie_path": "",
+    "set_appearance_mode": "dark",
+    "set_default_color_theme": "CTkThemesPack-main\\themes\\lavender.json"
+}
